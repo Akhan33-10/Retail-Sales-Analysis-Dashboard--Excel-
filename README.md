@@ -23,8 +23,6 @@ The dashboard helps in identifying key business insights and supports data-drive
 ## 📷 Dashboard Preview
 
 ![Dashboard Screenshot](dashboard.png)
-<img width="1358" height="622" alt="dashboard (2)" src="https://github.com/user-attachments/assets/8dbc0b53-911a-4dde-8370-606810e2a32c" />
-
 
 
 ---
