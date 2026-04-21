@@ -8,7 +8,7 @@ It provides a clear and concise analysis of sales performance across different d
 
 The dashboard helps in identifying key business insights and supports data-driven decision-making.
 
----
+--
 
 ## 🎯 Objectives
 
